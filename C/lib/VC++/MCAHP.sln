@@ -1,0 +1,22 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "MCAHP", "MCAHP_EXAMPLE.vcxproj", "{95A7D8AC-5630-49A1-8B8F-919599A91EB6}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "MCAHP_LIB", "MCAHP_LIB.vcxproj", "{E053E8B2-DFC5-4D4C-AC88-1CB49514DA9D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{95A7D8AC-5630-49A1-8B8F-919599A91EB6}.Release|x86.ActiveCfg = Release|Win32
+		{95A7D8AC-5630-49A1-8B8F-919599A91EB6}.Release|x86.Build.0 = Release|Win32
+		{E053E8B2-DFC5-4D4C-AC88-1CB49514DA9D}.Release|x86.ActiveCfg = Release|Win32
+		{E053E8B2-DFC5-4D4C-AC88-1CB49514DA9D}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
